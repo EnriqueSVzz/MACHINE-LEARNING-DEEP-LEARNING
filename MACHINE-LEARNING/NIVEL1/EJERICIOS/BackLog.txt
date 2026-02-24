@@ -1,0 +1,3 @@
+La ciencia de datos es el estudio de los datos para obtener conocimientos.
+Combina una amplia variedad de disciplinas científicas para extraer información de conjuntos de 
+datos masivos, con el fin de ayudar a tomar decisiones y realizar predicciones más informadas.
